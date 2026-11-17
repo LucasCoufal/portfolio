@@ -1,5 +1,7 @@
 <h1>Lucas Coufal de Felippe - Portfólio</h1>
 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/96f06de2-fc53-4aee-a46f-6f2c76c74cc8" align="right" />
+
 Meu nome é Lucas, tenho 21 anos e sou bacharelando em Sistemas da Informação na UNIRIO, com foco na área de desenvolvimento de sistemas. Minhas habilidades envolvem:
 
 Linguagens de programação:

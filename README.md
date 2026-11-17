@@ -42,5 +42,7 @@ Ferramentas e ambientes de desenvolvimento:
 Projetos desenvolvidos:
 
 1. Booked (Interface simples de e-commerce de livros e eBooks)
-   <img width="1080" height="1045" alt="image" src="https://github.com/user-attachments/assets/82db2b1b-9c7e-4e6b-96a5-4bd38b40c8e9" />
+   
+   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/82db2b1b-9c7e-4e6b-96a5-4bd38b40c8e9" />
+   
    Link do repositório do projeto: https://github.com/anaksb-tech/Booked
